@@ -1,3 +1,3 @@
 # Battleship
 
-This is a battleship game I made.
+This is a battleship game I made using C++.
